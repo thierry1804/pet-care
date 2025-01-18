@@ -1,0 +1,9 @@
+{
+  "kv": {
+    "rest": {
+      "url": "VERCEL_KV_REST_API_URL",
+      "token": "VERCEL_KV_REST_API_TOKEN"
+    }
+  }
+}
+
